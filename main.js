@@ -1,3 +1,5 @@
+//Por favor leer el README.md
+
 function armarCarrito() {
     let prod = prompt("Por favor indique el articulo que desea comprar:\n1- Mesa de comedor - $5999\n2- Rack TV 50 - $3999\n3- Juego de Sillones - $9999\n4- Escritorio - $2999\n5- Sommier King Size - $12999");
     let cantidad = parseInt(prompt("Ingrese la cantidad que desea comprar:"));
